@@ -1,0 +1,2043 @@
+/*Pantalla de Escritorio Medio*/
+
+
+@media (max-width:1615px) {
+
+    .js-fixed {
+        width: 100%;
+    }
+
+    .container-2 {
+        width: 90%;
+    }
+
+    .nav-links {
+        width: 1153px;
+    }
+
+    .logo-container {
+        margin-left: 0px;
+    }
+
+    .header-text {
+        width: 78%;
+        margin-top: -23px;
+    }
+
+    p.animate-text-1 {
+        font-size: 45px;
+
+    }
+
+    p.animate-text-2 {
+        font-size: 45px;
+    }
+
+    h2.animated-subtitle {
+        font-size: 18px;
+    }
+
+    #Sobre-mi {
+        width: 100%;
+    }
+
+    .container-sobremi {
+        width: 47%;
+        margin-top: 91px;
+        margin-left: 386px;
+        height: 573px;
+    }
+
+    .section-titulo {
+        font-size: 35px;
+    }
+
+    .section-subtitulo {
+        width: 87%;
+        height: 245px;
+    }
+
+    p {
+        width: 657px;
+        font-size: 20px;
+    }
+
+    .aside-element {
+        width: 15%;
+        margin-left: -220px;
+    }
+
+    .container3 {
+        width: 100%;
+    }
+
+    .title-container1 {
+        width: 36%;
+        margin-left: 381px;
+    }
+
+    .title-section1 {
+        font-size: 35px;
+    }
+
+    .title-icon1 {
+        margin-left: 351px;
+    }
+
+    .subtitle-section1 {
+        width: 643px;
+        height: 100px;
+        margin-top: 0px;
+        font-size: 23px;
+    }
+
+    .container-cuestiones-pedagogicas {
+        width: 90%;
+        margin-left: -666px
+    }
+
+    .project-image1 {
+        width: 28%;
+        margin-left: 320px;
+    }
+
+    .project-image1 img {
+        width: 410px;
+        height: 200px;
+    }
+
+    .container-content {
+        width: 26%;
+        margin-left: 774px;
+    }
+
+    .proyecto-content {
+        width: 380px;
+    }
+
+    .proyecto-title a {
+        font-size: 20px;
+    }
+
+    .proyecto-description {
+        width: 380px;
+
+    }
+
+    .proyecto-description p {
+        font-size: 18px;
+    }
+
+    .proyecto-links {
+        width: 80%;
+        justify-content: center;
+    }
+
+    .link-btn {
+        width: 200px;
+        font-size: 18px;
+    }
+
+
+
+    .container-master {
+        width: 90%;
+        margin-left: -1688px;
+    }
+
+    .project-image2 {
+        width: 25%;
+    }
+
+    .project-image2 img {
+        width: 410px;
+        height: 200px;
+        margin-left: 101px;
+    }
+
+    .container-content2 {
+        width: 24%;
+        margin-left: 407px;
+        height: 213px;
+    }
+
+    .proyecto-content2 {
+        width: 49%;
+    }
+
+    .proyecto-description2 {
+        width: 411px;
+    }
+
+    .proyecto-description2 p {
+        font-size: 18px;
+    }
+
+    .proyecto-links2 {
+        width: 50%;
+        justify-content: center;
+        margin-left: 96px;
+        margin-top: -31px;
+    }
+
+    .link-btn2 {
+        width: 200px;
+        font-size: 18px;
+    }
+
+
+    .tag-list {
+        width: 100%;
+    }
+
+    .inner {
+        width: 80%;
+    }
+
+    .tag {
+        width: 90%;
+        font-size: 15px;
+    }
+
+
+
+    #formacion {
+        width: 100%;
+    }
+
+    .container4 {
+        width: 100%;
+    }
+
+    .title-formacion {
+        width: 70%;
+        font-size: 35px;
+    }
+
+    .title-icon-formacion {
+        width: 56px;
+        margin-top: -60px;
+        margin-left: 193px;
+    }
+
+    .formacion {
+        margin-left: -852px;
+        width: 500px;
+        margin-right: 0px;
+
+    }
+
+    .formacion li {
+        width: 500px;
+        font-size: 18px;
+    }
+
+    .btn-contacto {
+        width: 30%;
+        margin-top: -300px;
+        margin-left: 662px;
+    }
+
+    .link-btn-contacto {
+        width: 200px;
+        font-size: 18px;
+        height: 60px;
+        line-height: 60px;
+    }
+
+    .footer {
+        width: 100%;
+    }
+
+    .footer-container {
+        width: 995px;
+    }
+
+
+}
+
+
+
+
+
+
+
+
+@media (max-width:1451px) {
+    wrap {
+        width: 60%;
+        margin: 0px auto;
+    }
+
+    .container-2 {
+        width: 80%;
+    }
+
+    .nav-links {
+        width: 65%;
+
+    }
+
+    .nav-logo {
+        margin-left: 100px;
+    }
+
+    .container {
+        width: 60%;
+    }
+
+    .logo-container {
+        width: 30%;
+        font-size: 18px;
+        margin-left: 129px;
+    }
+
+    .logo-animated {
+        margin-left: 0px;
+        width: 125px;
+        margin-top: 288px;
+    }
+
+    .header-text {
+        width: 72%;
+        margin-left: 132px;
+        margin-top: -75px;
+    }
+
+    p.animate-text-1 {
+        width: 731px;
+        font-size: 35px;
+    }
+
+    p.animate-text-2 {
+        width: 731px;
+        font-size: 35px;
+    }
+
+    h2.animated-subtitle {
+        width: 641px;
+        margin-left: 133px;
+    }
+
+    #Sobre-mi {
+        width: 90%;
+    }
+
+    .container-sobremi {
+        margin-left: 29%;
+    }
+
+    .section-titulo {
+        font-size: 31px;
+    }
+
+    p {
+        font-size: 18px;
+    }
+
+    .aside-element {
+        margin-left: -135px;
+    }
+
+    .socialmedia {
+        margin-left: 278%;
+        margin-left: 10px;
+    }
+
+    .más-sobre-mi-link {
+        width: 50%;
+        margin-top: -210px;
+    }
+
+    .más-sobre-mi-link a {
+        width: 250px;
+        height: 80px;
+        font-size: 18px;
+        line-height: 80px;
+    }
+
+    .title-container1 {
+        width: 34%;
+        margin-left: 345px;
+    }
+
+    .container3 {
+        width: 100%;
+    }
+
+    .container-cuestiones-pedagogicas {
+        width: 76%;
+        margin-left: -700px;
+    }
+
+    .project-image1 {
+        width: 28%;
+        margin-left: 320px;
+    }
+
+    .container-content {
+        width: 25%;
+    }
+
+    .proyecto-content {
+        width: 85%;
+
+    }
+
+    .proyecto-title a {
+        font-size: 18px;
+    }
+
+    .proyecto-description {
+        width: 88%;
+    }
+
+    .proyecto-description p {
+        font-size: 15px;
+    }
+
+    .project-image2 {
+        width: 35%;
+        margin-left: 658px;
+    }
+
+    .proyecto-links {
+        width: 60%;
+        margin-left: 0px;
+        margin-top: -14pxpx;
+
+    }
+
+    .container-master {
+        width: 76%;
+        margin-left: -1458px;
+    }
+
+    .container-content2 {
+        width: 25%;
+        margin-left: 395px;
+    }
+
+    .proyecto-content2 {
+        width: 50%;
+    }
+
+    .proyecto-description2 {
+        width: 88%;
+    }
+
+    .proyecto-description2 p {
+        font-size: 15px;
+    }
+
+    .proyecto-title2 a {
+        font-size: 18px;
+    }
+
+    .proyecto-links2 {
+        width: 60%;
+        margin-left: 0px;
+        margin-top: -14pxpx;
+
+    }
+
+    .link-btn {
+        margin-left: 50px;
+        width: 200px;
+        font-size: 15px;
+    }
+
+    .link-btn2 {
+        width: 175px;
+        font-size: 15px;
+    }
+
+    .project-image2 {
+        width: 35%;
+        margin-left: 638px;
+    }
+
+    .container4 {
+        width: 100%;
+    }
+
+    .title-formacion {
+        width: 50%;
+    }
+
+    .formacion {
+        width: 600px;
+        margin-left: -426px;
+
+    }
+
+    .formacion li {
+        font-size: 13px;
+    }
+
+    .btn-contacto {
+        width: 30%;
+        margin-left: 368px;
+    }
+
+    .tag-list {
+        width: 100%;
+    }
+
+    .tag {
+        font-size: 15px;
+    }
+
+    .footer {
+        width: 100%;
+    }
+
+    .footer-container {
+        width: 54%;
+    }
+
+    .link-btn-contacto {
+        margin-left: 138px;
+        width: 200px;
+        font-size: 16px;
+        height: 60px;
+        line-height: 60px;
+    }
+
+    .correo {
+        margin-left: -452px;
+    }
+}
+
+
+/*Pantalla de Portátil Medio*/
+
+
+
+@media (max-width:1366px) {
+    wrap {
+        width: 80%;
+        margin: 0px auto;
+    }
+
+    .container-2 {
+        width: 80%;
+    }
+
+    .nav-links {
+        width: 65%;
+
+    }
+
+    .nav-logo {
+        margin-left: 100px;
+    }
+
+    .container {
+        width: 70%;
+    }
+
+    .logo-container {
+        width: 30%;
+        font-size: 18px;
+        margin-left: 129px;
+    }
+
+    .logo-animated {
+        margin-left: 0px;
+        width: 125px;
+        margin-top: 288px;
+    }
+
+    .header-text {
+        width: 72%;
+        margin-left: 132px;
+        margin-top: -75px;
+    }
+
+    p.animate-text-1 {
+        width: 731px;
+        font-size: 35px;
+    }
+
+    p.animate-text-2 {
+        width: 731px;
+        font-size: 35px;
+    }
+
+    h2.animated-subtitle {
+        width: 641px;
+        margin-left: 133px;
+    }
+
+    #Sobre-mi {
+        width: 90%;
+    }
+
+    .container-sobremi {
+        margin-left: 29%;
+    }
+
+    .section-titulo {
+        font-size: 31px;
+    }
+
+    p {
+        font-size: 18px;
+    }
+
+    .aside-element {
+        margin-left: -135px;
+    }
+
+    .socialmedia {
+        margin-left: 278%;
+        margin-left: 10px;
+    }
+
+    .más-sobre-mi-link {
+        width: 50%;
+        margin-top: -210px;
+    }
+
+    .más-sobre-mi-link a {
+        width: 250px;
+        height: 80px;
+        font-size: 18px;
+        line-height: 80px;
+    }
+
+    .title-container1 {
+        width: 34%;
+        margin-left: 345px;
+    }
+
+    .container3 {
+        width: 100%;
+    }
+
+    .container-cuestiones-pedagogicas {
+        width: 76%;
+        margin-left: -700px;
+    }
+
+    .project-image1 {
+        width: 28%;
+        margin-left: 320px;
+    }
+
+    .container-content {
+        width: 25%;
+    }
+
+    .proyecto-content {
+        width: 85%;
+
+    }
+
+    .proyecto-title a {
+        font-size: 18px;
+    }
+
+    .proyecto-description {
+        width: 88%;
+    }
+
+    .proyecto-description p {
+        font-size: 15px;
+    }
+
+    .project-image2 {
+        width: 35%;
+        margin-left: 658px;
+    }
+
+    .proyecto-links {
+        width: 60%;
+        margin-left: 0px;
+        margin-top: -14pxpx;
+
+    }
+
+    .container-master {
+        width: 76%;
+        margin-left: -1458px;
+    }
+
+    .container-content2 {
+        width: 25%;
+        margin-left: 395px;
+    }
+
+    .proyecto-content2 {
+        width: 50%;
+    }
+
+    .proyecto-description2 {
+        width: 88%;
+    }
+
+    .proyecto-description2 p {
+        font-size: 15px;
+    }
+
+    .proyecto-title2 a {
+        font-size: 18px;
+    }
+
+    .proyecto-links2 {
+        width: 60%;
+        margin-left: 0px;
+        margin-top: -14pxpx;
+
+    }
+
+    .link-btn2 {
+        margin-left: 50px;
+        width: 200px;
+        font-size: 15px;
+    }
+
+    .project-image2 {
+        width: 35%;
+        margin-left: 638px;
+    }
+
+    .container4 {
+        width: 100%;
+    }
+
+    .title-formacion {
+        width: 50%;
+    }
+
+    .formacion {
+        width: 600px;
+        margin-left: -426px;
+
+    }
+
+    .formacion li {
+        font-size: 13px;
+    }
+
+    .btn-contacto {
+        width: 30%;
+        margin-left: 368px;
+    }
+
+    .tag-list {
+        width: 100%;
+    }
+
+    .tag {
+        font-size: 15px;
+    }
+
+    .footer {
+        width: 100%;
+    }
+
+    .footer-container {
+        width: 54%;
+    }
+
+    .link-btn-contacto {
+        margin-left: 138px;
+        width: 200px;
+        font-size: 16px;
+        height: 60px;
+        line-height: 60px;
+    }
+
+    .correo {
+        margin-left: -452px;
+    }
+}
+
+
+
+
+@media (max-width:1130px) {
+    wrap {
+        width: 70%;
+        margin: 0px auto;
+    }
+
+    .container-2 {
+        width: 62%;
+        margin-right: 265px;
+    }
+
+    .nav-links {
+        width: 48%;
+        margin-left: 140px;
+        margin-top: -25px;
+
+    }
+
+    .link {
+        font-size: 12px;
+    }
+
+    .nav-logo {
+        display: none;
+        margin-left: 115px;
+        font-size: 18px;
+        margin-top: 40px;
+    }
+
+    .container {
+        width: 60%;
+    }
+
+    .logo-container {
+        width: 30%;
+        font-size: 18px;
+        margin-left: 45px;
+    }
+
+    .logo-animated {
+        margin-left: 0px;
+        width: 125px;
+        margin-top: 288px;
+    }
+
+    .header-text {
+        width: 72%;
+        margin-left: 78px;
+        margin-top: -68px;
+    }
+
+    p.animate-text-1 {
+        width: 460px;
+        font-size: 25px;
+    }
+
+    p.animate-text-2 {
+        width: 460px;
+        font-size: 25px;
+    }
+
+    h2.animated-subtitle {
+        width: 464px;
+        margin-left: 78px;
+        font-size: 13px;
+        margin-top: -40px;
+    }
+
+    #Sobre-mi {
+        width: 74%;
+    }
+
+    .container-sobremi {
+        width: 58%;
+        height: 507px;
+        margin-left: 360px;
+    }
+
+    .section-titulo {
+        width: 360px;
+        font-size: 23px;
+    }
+
+    .section-subtitulo {
+        width: 92%;
+    }
+
+    p {
+        width: 449px;
+        font-size: 13px;
+    }
+
+    .aside-element {
+        width: 13px;
+        margin-left: -138px;
+    }
+
+    .socialmedia {
+
+        margin-left: 22px;
+    }
+
+    .más-sobre-mi-link {
+        width: 37%;
+        margin-top: -210px;
+        margin-left: 96px;
+    }
+
+    .más-sobre-mi-link a {
+        width: 200px;
+        height: 60px;
+        font-size: 13px;
+        line-height: 60px;
+    }
+
+    .title-container1 {
+        width: 21%;
+        margin-left: 280px;
+    }
+
+    .title-section1 {
+        font-size: 23px;
+    }
+
+    .title-icon1 {
+        margin-left: 242px;
+    }
+
+    .subtitle-section1 {
+        width: 363px;
+        font-size: 16px;
+    }
+
+    .container3 {
+        width: 100%;
+    }
+
+    .container-cuestiones-pedagogicas {
+        width: 76%;
+        margin-left: -496px;
+        margin-top: 317px;
+    }
+
+    .project-image1 {
+        width: 22%;
+        margin-left: 389px;
+    }
+
+    .project-image1 img {
+        width: 321px;
+        height: 190px;
+    }
+
+    .container-content {
+        width: 15%;
+        margin-left: 732px;
+    }
+
+    .proyecto-content {
+        width: 95%;
+
+    }
+
+    .proyecto-title a {
+        font-size: 13px;
+    }
+
+    .proyecto-description {
+        width: 95%;
+    }
+
+    .proyecto-description p {
+        font-size: 14px;
+        letter-spacing: 1px;
+        margin-top: -14px;
+    }
+
+
+
+    .proyecto-links {
+        width: 90%;
+        margin-left: -194px;
+        margin-top: 30px;
+
+    }
+
+    .link-btn {
+        margin-left: 50px;
+        width: 200px;
+        font-size: 13px;
+    }
+
+    .container-master {
+        width: 76%;
+        margin-left: -1458px;
+    }
+
+    .container-content2 {
+        width: 19%;
+        margin-left: 461px;
+    }
+
+    .proyecto-content2 {
+        width: 50%;
+    }
+
+    .proyecto-description2 {
+        width: 89%;
+    }
+
+    .proyecto-description2 p {
+        font-size: 14px;
+        letter-spacing: 1px;
+
+    }
+
+    .proyecto-title2 a {
+        font-size: 13px;
+    }
+
+    .proyecto-links2 {
+
+        width: 206px;
+        height: 190px;
+        margin-left: 165px;
+        margin-top: 18px;
+
+    }
+
+    .link-btn2 {
+        margin-left: 50px;
+        width: 200px;
+        font-size: 13px;
+    }
+
+    .project-image2 {
+        width: 22%;
+        margin-left: 638px;
+    }
+
+    .project-image2 img {
+        width: 321px;
+        height: 190px;
+    }
+
+    .container4 {
+        width: 100%;
+    }
+
+    .title-formacion {
+        width: 36%;
+        height: 100px;
+        margin-left: 318px;
+        font-size: 22px;
+    }
+
+    .title-icon-formacion {
+        margin-left: 121px;
+        margin-top: -56px;
+    }
+
+    .formacion {
+        width: 453px;
+        margin-left: -123px;
+        margin-top: 172px;
+
+    }
+
+    .formacion li {
+        font-size: 11px;
+    }
+
+    .btn-contacto {
+        width: 27%;
+        margin-left: 312px;
+    }
+
+    .tag-list {
+        width: 100%;
+    }
+
+    .inner {
+        width: 95%;
+    }
+
+    .tag {
+        font-size: 12px;
+    }
+
+    .footer {
+        width: 100%;
+    }
+
+    .footer-container {
+        width: 54%;
+    }
+
+    .footer-social-media {
+        width: 782px;
+    }
+
+    .link-btn-contacto {
+        margin-left: 138px;
+        width: 200px;
+        font-size: 16px;
+        height: 60px;
+        line-height: 60px;
+    }
+
+    .correo {
+        margin-left: -452px;
+    }
+}
+
+
+@media (max-width:961px) {
+    wrap {
+        width: 70%;
+        margin: 0px auto;
+    }
+
+    .container-2 {
+        width: 62%;
+        margin-right: 265px;
+    }
+
+    .nav-links {
+
+        width: 48%;
+        margin-left: 101px;
+        margin-top: -25px;
+
+    }
+
+    .link {
+        font-size: 9px;
+    }
+
+    .nav-logo {
+        display: none;
+        margin-left: 115px;
+        font-size: 18px;
+        margin-top: 40px;
+    }
+
+    .container {
+        width: 50%;
+    }
+
+    .logo-container {
+        width: 30%;
+        font-size: 18px;
+        margin-left: 45px;
+    }
+
+    .logo-animated {
+        margin-left: 0px;
+        width: 125px;
+        margin-top: 288px;
+    }
+
+    .header-text {
+        width: 78%;
+        margin-left: 51px;
+        margin-top: -68px;
+    }
+
+    p.animate-text-1 {
+        width: 370px;
+        font-size: 20px;
+    }
+
+    p.animate-text-2 {
+        width: 370px;
+        font-size: 20px;
+    }
+
+    h2.animated-subtitle {
+        width: 446px;
+        margin-left: 8px;
+        font-size: 13px;
+        margin-top: -40px;
+    }
+
+    #Sobre-mi {
+        width: 100%;
+    }
+
+    .container-sobremi {
+        width: 58%;
+        height: 507px;
+        margin-left: 287px;
+    }
+
+    .section-titulo {
+        width: 360px;
+        font-size: 23px;
+    }
+
+    .section-subtitulo {
+        width: 67%;
+    }
+
+    p {
+        width: 369px;
+        font-size: 11px;
+    }
+
+    .aside-element {
+        width: 13px;
+        margin-left: -20px;
+        margin-top: 10px;
+    }
+
+    .socialmedia {
+
+        margin-left: 22px;
+    }
+
+    .más-sobre-mi-link {
+        width: 37%;
+        margin-top: -210px;
+        margin-left: 96px;
+    }
+
+    .más-sobre-mi-link a {
+        width: 200px;
+        height: 60px;
+        font-size: 13px;
+        line-height: 60px;
+    }
+
+    .title-container1 {
+        width: 21%;
+        margin-left: 280px;
+    }
+
+    .title-section1 {
+        font-size: 23px;
+    }
+
+    .title-icon1 {
+        margin-left: 242px;
+    }
+
+    .subtitle-section1 {
+        width: 363px;
+        font-size: 16px;
+    }
+
+    .container3 {
+        width: 100%;
+    }
+
+    .container-cuestiones-pedagogicas {
+        width: 76%;
+        margin-left: -579px;
+        margin-top: 317px;
+    }
+
+    .project-image1 {
+        width: 22%;
+        margin-left: 389px;
+    }
+
+    .project-image1 img {
+        width: 321px;
+        height: 190px;
+    }
+
+    .container-content {
+        width: 15%;
+        margin-left: 732px;
+    }
+
+    .proyecto-content {
+        width: 95%;
+
+    }
+
+    .proyecto-title a {
+        font-size: 13px;
+    }
+
+    .proyecto-description {
+        width: 95%;
+    }
+
+    .proyecto-description p {
+        font-size: 14px;
+        letter-spacing: 1px;
+        margin-top: -14px;
+    }
+
+
+
+    .proyecto-links {
+        width: 90%;
+        margin-left: -194px;
+        margin-top: 30px;
+
+    }
+
+    .link-btn {
+        margin-left: 50px;
+        width: 200px;
+        font-size: 13px;
+    }
+
+    .container-master {
+        width: 76%;
+        margin-left: -1458px;
+    }
+
+    .container-content2 {
+        width: 19%;
+        margin-left: 461px;
+    }
+
+    .proyecto-content2 {
+        width: 50%;
+    }
+
+    .proyecto-description2 {
+        width: 89%;
+    }
+
+    .proyecto-description2 p {
+        font-size: 14px;
+        letter-spacing: 1px;
+
+    }
+
+    .proyecto-title2 a {
+        font-size: 13px;
+    }
+
+    .proyecto-links2 {
+
+        width: 206px;
+        height: 190px;
+        margin-left: 165px;
+        margin-top: 18px;
+
+    }
+
+    .link-btn2 {
+        margin-left: 50px;
+        width: 200px;
+        font-size: 13px;
+    }
+
+    .project-image2 {
+        width: 22%;
+        margin-left: 638px;
+    }
+
+    .project-image2 img {
+        width: 321px;
+        height: 190px;
+    }
+
+    .container4 {
+        width: 100%;
+    }
+
+    .title-formacion {
+        width: 36%;
+        height: 100px;
+        margin-left: 318px;
+        font-size: 22px;
+    }
+
+    .title-icon-formacion {
+        margin-left: 121px;
+        margin-top: -56px;
+    }
+
+    .formacion {
+        width: 453px;
+        margin-left: -123px;
+        margin-top: 172px;
+
+    }
+
+    .formacion li {
+        font-size: 11px;
+    }
+
+    .btn-contacto {
+        width: 27%;
+        margin-left: 312px;
+    }
+
+    .tag-list {
+        width: 100%;
+    }
+
+    .inner {
+        width: 95%;
+    }
+
+    .tag {
+        font-size: 12px;
+    }
+
+    .footer {
+        width: 100%;
+    }
+
+    .footer-container {
+        width: 54%;
+    }
+
+    .footer-social-media {
+        width: 782px;
+    }
+
+    .link-btn-contacto {
+        margin-left: 138px;
+        width: 200px;
+        font-size: 16px;
+        height: 60px;
+        line-height: 60px;
+    }
+
+    .correo {
+        margin-left: -452px;
+    }
+}
+
+
+@media (max-width:823px) {
+    wrap {
+        width: 70%;
+        margin: 0px auto;
+    }
+
+    .container-2 {
+        width: 66%;
+        margin-right: 265px;
+    }
+
+    .nav-links {
+
+        width: 56%;
+        margin-left: 128px;
+        margin-top: -25px;
+
+    }
+
+    .link {
+        font-size: 9px;
+    }
+
+    .nav-logo {
+        display: none;
+        margin-left: 115px;
+        font-size: 18px;
+        margin-top: 40px;
+    }
+
+    .container {
+        width: 50%;
+    }
+
+    .logo-container {
+        width: 30%;
+        font-size: 18px;
+        margin-left: 45px;
+    }
+
+    .logo-animated {
+        margin-left: 0px;
+        width: 125px;
+        margin-top: 288px;
+    }
+
+    .header-text {
+        width: 78%;
+        margin-left: 51px;
+        margin-top: -68px;
+    }
+
+    p.animate-text-1 {
+        width: 370px;
+        font-size: 20px;
+    }
+
+    p.animate-text-2 {
+        width: 370px;
+        font-size: 20px;
+    }
+
+    h2.animated-subtitle {
+        width: 446px;
+        margin-left: 8px;
+        font-size: 13px;
+        margin-top: -40px;
+    }
+
+    #Sobre-mi {
+        width: 100%;
+    }
+
+    .container-sobremi {
+        width: 58%;
+        height: 507px;
+        margin-left: 188px;
+    }
+
+    .section-titulo {
+        width: 360px;
+        font-size: 23px;
+    }
+
+    .section-subtitulo {
+        width: 67%;
+    }
+
+    p {
+        width: 369px;
+        font-size: 11px;
+    }
+
+    .aside-element {
+        width: 13px;
+        margin-left: -20px;
+        margin-top: 10px;
+    }
+
+    .socialmedia {
+
+        margin-left: 22px;
+    }
+
+    .más-sobre-mi-link {
+        width: 37%;
+        margin-top: -210px;
+        margin-left: 96px;
+    }
+
+    .más-sobre-mi-link a {
+        width: 200px;
+        height: 60px;
+        font-size: 13px;
+        line-height: 60px;
+    }
+
+    .title-container1 {
+        width: 21%;
+        margin-left: 220px;
+    }
+
+    .title-section1 {
+        font-size: 23px;
+    }
+
+    .title-icon1 {
+        margin-left: 242px;
+    }
+
+    .subtitle-section1 {
+        width: 363px;
+        font-size: 16px;
+    }
+
+    .container3 {
+        width: 100%;
+    }
+
+    .container-cuestiones-pedagogicas {
+        width: 76%;
+        margin-left: -587px;
+        margin-top: 317px;
+    }
+
+    .project-image1 {
+        width: 22%;
+        margin-left: 389px;
+    }
+
+    .project-image1 img {
+        width: 321px;
+        height: 190px;
+    }
+
+    .container-content {
+        width: 15%;
+        margin-left: 732px;
+    }
+
+    .proyecto-content {
+        width: 95%;
+
+    }
+
+    .proyecto-title a {
+        font-size: 13px;
+    }
+
+    .proyecto-description {
+        width: 95%;
+    }
+
+    .proyecto-description p {
+        font-size: 14px;
+        letter-spacing: 1px;
+        margin-top: -14px;
+    }
+
+
+
+    .proyecto-links {
+        width: 90%;
+        margin-left: -194px;
+        margin-top: 30px;
+
+    }
+
+    .link-btn {
+        margin-left: 50px;
+        width: 200px;
+        font-size: 13px;
+    }
+
+    .container-master {
+        width: 76%;
+        margin-left: -1458px;
+    }
+
+    .container-content2 {
+        width: 19%;
+        margin-left: 461px;
+    }
+
+    .proyecto-content2 {
+        width: 50%;
+    }
+
+    .proyecto-description2 {
+        width: 89%;
+    }
+
+    .proyecto-description2 p {
+        font-size: 14px;
+        letter-spacing: 1px;
+
+    }
+
+    .proyecto-title2 a {
+        font-size: 13px;
+    }
+
+    .proyecto-links2 {
+
+        width: 206px;
+        height: 190px;
+        margin-left: 165px;
+        margin-top: 18px;
+
+    }
+
+    .link-btn2 {
+        margin-left: 50px;
+        width: 200px;
+        font-size: 13px;
+    }
+
+    .project-image2 {
+        width: 22%;
+        margin-left: 638px;
+    }
+
+    .project-image2 img {
+        width: 321px;
+        height: 190px;
+    }
+
+    .container4 {
+        width: 100%;
+    }
+
+    .title-formacion {
+        width: 36%;
+        height: 100px;
+        margin-left: 318px;
+        font-size: 22px;
+    }
+
+    .title-icon-formacion {
+        margin-left: 121px;
+        margin-top: -56px;
+    }
+
+    .formacion {
+        width: 453px;
+        margin-left: -123px;
+        margin-top: 172px;
+
+    }
+
+    .formacion li {
+        font-size: 11px;
+    }
+
+    .btn-contacto {
+        width: 27%;
+        margin-left: 220px;
+    }
+
+    .tag-list {
+        width: 100%;
+    }
+
+    .inner {
+        width: 95%;
+    }
+
+    .tag {
+        font-size: 12px;
+    }
+
+    .footer {
+        width: 100%;
+    }
+
+    .footer-container {
+        width: 54%;
+    }
+
+    .footer-social-media {
+        width: 782px;
+    }
+
+    .link-btn-contacto {
+        margin-left: 138px;
+        width: 200px;
+        font-size: 16px;
+        height: 60px;
+        line-height: 60px;
+    }
+
+    .correo {
+        margin-left: -452px;
+    }
+}
+
+
+@media (max-width:729px) {
+    wrap {
+        width: 70%;
+        margin: 0px auto;
+    }
+
+    .container-2 {
+        width: 66%;
+        margin-right: 265px;
+    }
+
+    .nav-links {
+
+        width: 65%;
+        margin-left: 67px;
+        margin-top: 41px;
+
+    }
+
+    .link {
+        font-size: 9px;
+    }
+
+    .nav-logo {
+        display: none;
+        margin-left: 115px;
+        font-size: 18px;
+        margin-top: 40px;
+    }
+
+    .js-fixed {
+        height: 500px;
+    }
+
+    .fixed-header-animation-background::before {
+        display: none;
+    }
+
+    .container {
+        width: 70%;
+    }
+
+    .logo-container {
+        width: 30%;
+        font-size: 18px;
+        margin-left: 164px;
+    }
+
+    .logo-animated {
+        margin-left: 0px;
+        width: 125px;
+        margin-top: 288px;
+    }
+
+    .header-text {
+        width: 78%;
+        margin-left: 51px;
+        margin-top: -68px;
+    }
+
+    p.animate-text-1 {
+        width: 263px;
+        font-size: 20px;
+        margin-left: 54px;
+    }
+
+    p.animate-text-2 {
+        width: 370px;
+        font-size: 20px;
+    }
+
+    h2.animated-subtitle {
+        width: 288px;
+        margin-left: 94px;
+        font-size: 13px;
+        margin-top: -40px;
+    }
+
+    #Sobre-mi {
+        width: 100%;
+    }
+
+    .container-sobremi {
+        width: 58%;
+        height: 507px;
+        margin-left: 188px;
+    }
+
+    .section-titulo {
+        width: 360px;
+        font-size: 23px;
+    }
+
+    .section-subtitulo {
+        width: 67%;
+    }
+
+    p {
+        width: 369px;
+        font-size: 11px;
+    }
+
+    .aside-element {
+        width: 13px;
+        margin-left: -20px;
+        margin-top: 10px;
+    }
+
+    .socialmedia {
+
+        margin-left: 46px;
+    }
+
+    .más-sobre-mi-link {
+        width: 37%;
+        margin-top: -262px;
+        margin-left: 149px;
+    }
+
+    .más-sobre-mi-link a {
+        width: 200px;
+        height: 60px;
+        font-size: 13px;
+        line-height: 60px;
+    }
+
+    .title-container1 {
+        width: 18%;
+        margin-left: 220px;
+        margin-top: 10px;
+    }
+
+    .title-section1 {
+        font-size: 23px;
+    }
+
+    .title-icon1 {
+        margin-left: 242px;
+    }
+
+    .subtitle-section1 {
+        display: none;
+        width: 363px;
+        font-size: 16px;
+    }
+
+    .container3 {
+        width: 100%;
+    }
+
+    .container-cuestiones-pedagogicas {
+        width: 76%;
+        margin-left: -587px;
+        margin-top: 347px;
+    }
+
+    .project-image1 {
+        display: none;
+        width: 22%;
+        margin-left: 389px;
+    }
+
+    .project-image1 img {
+        width: 321px;
+        height: 190px;
+    }
+
+    .container-content {
+        width: 15%;
+        margin-left: 564px;
+    }
+
+    .proyecto-content {
+        width: 95%;
+
+    }
+
+    .proyecto-title a {
+        font-size: 13px;
+    }
+
+    .proyecto-description {
+        width: 95%;
+    }
+
+    .proyecto-description p {
+        font-size: 14px;
+        letter-spacing: 1px;
+        margin-top: -14px;
+    }
+
+
+
+    .proyecto-links {
+        width: 90%;
+        margin-left: -12px;
+        margin-top: -23px;
+
+    }
+
+    .link-btn {
+        margin-left: 50px;
+        width: 200px;
+        font-size: 13px;
+    }
+
+    .container-master {
+        width: 76%;
+        height: 86px;
+        margin-left: -1225px;
+        margin-top: 688px;
+    }
+
+    .container-content2 {
+        width: 19%;
+        margin-left: 408px;
+    }
+
+    .proyecto-content2 {
+        width: 50%;
+        margin-left: 50px;
+    }
+
+    .proyecto-description2 {
+
+        width: 89%;
+    }
+
+    .proyecto-description2 p {
+        font-size: 14px;
+        letter-spacing: 1px;
+
+    }
+
+    .proyecto-title2 a {
+        font-size: 13px;
+    }
+
+    .proyecto-links2 {
+
+        width: 206px;
+        height: 190px;
+        margin-left: -12px;
+        margin-top: -64px;
+    }
+
+    .link-btn2 {
+        margin-left: 50px;
+        width: 200px;
+        font-size: 13px;
+    }
+
+    .project-image2 {
+        display: none;
+        width: 22%;
+        margin-left: 638px;
+    }
+
+    .project-image2 img {
+        width: 321px;
+        height: 190px;
+    }
+
+    .container4 {
+        width: 100%;
+    }
+
+    .title-formacion {
+        width: 36%;
+        height: 100px;
+        margin-left: 238px;
+        font-size: 22px;
+    }
+
+    .title-icon-formacion {
+        margin-left: 121px;
+        margin-top: -56px;
+    }
+
+    .formacion {
+        width: 432px;
+        margin-left: -34px;
+        margin-top: 172px;
+
+    }
+
+    .formacion li {
+        font-size: 11px;
+    }
+
+    .btn-contacto {
+        width: 27%;
+        margin-left: 220px;
+    }
+
+    .tag-list {
+        width: 100%;
+    }
+
+    .inner {
+        width: 95%;
+    }
+
+    .tag {
+        font-size: 12px;
+    }
+
+    .footer {
+        width: 100%;
+    }
+
+    .footer-container {
+        width: 54%;
+    }
+
+    .footer-social-media {
+        width: 782px;
+    }
+
+    .link-btn-contacto {
+        margin-left: 138px;
+        width: 200px;
+        font-size: 15px;
+        height: 60px;
+        line-height: 60px;
+    }
+    .socialmedia2{
+        margin-top: -4px;
+    }
+
+    .correo {
+        margin-left: -452px;
+    }
+}
