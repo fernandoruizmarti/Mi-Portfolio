@@ -26,13 +26,13 @@
     }
 
     .logo-animated {
-        margin-top: 371px;
+        margin-top: 253px;
     }
 
     .header-text {
         width: 58%;
         height: 163px;
-        margin-top: 64px;
+        margin-top: -80px;
     }
 
 
@@ -336,13 +336,13 @@
     .logo-animated {
         margin-left: 0px;
         width: 125px;
-        margin-top: 360px;
+        margin-top: 253px;
     }
 
     .header-text {
         width: 72%;
         margin-left: 68px;
-        margin-top: 73px;
+        margin-top: -97px;
     }
 
     p.animate-text-1 {
@@ -554,6 +554,13 @@
 
 
 /*Pantalla de Portátil Medio*/
+@media (max-width:1440px){
+    .header-text{
+        margin-top: -60px;
+    }
+}
+
+
 @media (max-width:1400px) {
     .nav-links {
         width: 65%;
@@ -594,13 +601,13 @@
     .logo-animated {
         margin-left: 0px;
         width: 125px;
-        margin-top: 360px;
+        margin-top: 253px;
     }
 
     .header-text {
         width: 72%;
         margin-left: 132px;
-        margin-top: 76px;
+        margin-top: -97px;
     }
 
     p.animate-text-1 {
